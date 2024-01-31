@@ -1,2 +1,2 @@
-# TG-REDDIT-STREAMER
-Telegram Reddit Streamer Bot
+# rsb
+A reddit streaming bot 
